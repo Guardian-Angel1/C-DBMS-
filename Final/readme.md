@@ -1,5 +1,5 @@
 
-# Database in C
+# Database in C++
 
 This project is a database management system, which takes commands from the command line.
 This project aims to replicate a full-fledged database management system. I have created this project to implement my learnings from the 
